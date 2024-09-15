@@ -1,0 +1,5 @@
+name: KillStrength
+version: 1.2.0
+main: com.starshooterstudios.killstrength.Main
+description: Every 2 players you kill you get a level of strength
+api-version: '1.21'
